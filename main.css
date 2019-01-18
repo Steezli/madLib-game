@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: fuchsia;
+}
+label {
+    display: block;
+    padding: 5px;
+    margin: 5px;
+}
+button{
+    color: white;
+    background: fuchsia;
+    padding: 5px;
+}
